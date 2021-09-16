@@ -14,26 +14,26 @@ body{
 
 .menu-title{
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .container{
  position: relative;
- top:60px;
- margin: 15px; 
+ top:50px;
+ margin: 20px; 
 }
 
 .item{
   position: relative;
   top: 0;
-  background-color:#999999;
-  margin: 15px;
-  padding: 25px;
+  background-color:#aba7a7;
+  margin: 20px;
+  padding: 20px;
   border: 3px solid #000;
 }
 
 .item p{
-  margin-top: 18px;
+  margin-top: 20px;
   text-align: justify;
   font-size:100%;
 }
@@ -49,19 +49,19 @@ body{
 }
 
 #title-one {
-  background-color: #D59898;
+  background-color: #fa8787;
 } 
 
 #title-two{
-  background-color: #C14543;
+  background-color: #fa413e;
 }
 
 #title-three{
-  background-color: #E5D198;
+  background-color: #f5d373;
 }
 
 /* Simple Responsive Framework. */
-/*------ Desktop ------*/
+/------ Desktop ------/
 @media (min-width: 992px){
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;  
@@ -106,7 +106,8 @@ body{
 }
 
 
-/*------ Tablet ------*/
+
+/------ Tablet ------/
 @media (min-width: 768px) and (max-width: 991px){
   .col-lg-4 {
     width: 50%;
@@ -119,7 +120,7 @@ body{
 }
 
 
-/*------ Mobile ------*/
+/------ Mobile ------/
 @media (max-width: 767px){
   .col-lg-4{
     width: 100%;
