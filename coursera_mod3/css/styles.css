@@ -84,16 +84,19 @@ section {
 #chicken-div {
   margin-bottom: 10px;
   margin-top: 10px;
+  list-style-type: none;
 }
 
 #beef-div {
   margin-bottom: 10px;
   margin-top: 10px;
+  list-style-type: none;
 }
 
 #sushi-div {
   margin-bottom: 10px;
   margin-top: 10px;
+  list-style-type: none;
 }
 
 .navbar-brand {
