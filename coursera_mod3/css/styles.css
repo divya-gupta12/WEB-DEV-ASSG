@@ -38,10 +38,10 @@ section {
 	overflow: auto;
 }
 
-.collapse navbar-collapse ul{
+#nav-list{
 	list-style-type: none;
 }
-.collapse navbar-collapse li{
+.item{
 	outline: none;
   	text-decoration: none;
 }
