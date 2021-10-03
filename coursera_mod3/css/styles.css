@@ -38,6 +38,14 @@ section {
 	overflow: auto;
 }
 
+.collapse navbar-collapse ul{
+	list-style-type: none;
+}
+.collapse navbar-collapse li{
+	outline: none;
+  	text-decoration: none;
+}
+
 #chicken {
 	border: 1px solid black;
 	text-align: center;
@@ -84,19 +92,19 @@ section {
 #chicken-div {
   margin-bottom: 10px;
   margin-top: 10px;
-  list-style-type: none;
+  
 }
 
 #beef-div {
   margin-bottom: 10px;
   margin-top: 10px;
-  list-style-type: none;
+
 }
 
 #sushi-div {
   margin-bottom: 10px;
   margin-top: 10px;
-  list-style-type: none;
+
 }
 
 .navbar-brand {
