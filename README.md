@@ -7,4 +7,4 @@ Coursera web dev course by johns Hopkins university
 
 [Module 4 assg](https://divya-gupta12.github.io/WEB-DEV-ASSG/coursera_mod4/)
 
-[Module 5 assg]()
+[Module 5 assg](https://divya-gupta12.github.io/WEB-DEV-ASSG/coursera_mod5/)
